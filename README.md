@@ -65,4 +65,4 @@ With more data, there are several potential areas for improvement:
 
 5. Implement more robust cross-validation strategies, such as time series cross-validation, to better assess model generalization.
 
-In summary, this project demonstrates an end-to-end machine learning workflow for predicting energy consumption using historical data. The Random Forest model emerged as the top performer, but the overall poor performance of all models suggests that more relevant data and advanced techniques are needed to improve the accuracy of energy consumption predictions.
+In summary, this project demonstrates an end-to-end machine learning workflow for predicting energy consumption using historical data. The Random Forest model emerged as the top performer.
