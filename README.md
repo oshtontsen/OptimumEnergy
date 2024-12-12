@@ -10,8 +10,8 @@ This project aims to predict energy consumption for a commercial building using 
 2. Checked for missing values - no missing data was found.
 3. Visualized relationships between features using a correlation heatmap and scatter plots:
    ![Heat map](Figure_1_Heatmap.png)
-   - Temperature showed the strongest positive correlation with energy consumption.
-   - Humidity had a slight negative correlation with energy consumption.
+   - Temperature showed the very slight positive correlation with energy consumption.
+
    ![Scatter plots](Figure_2_Scatterplots.png)
    - Scatter plots revealed non-linear relationships, especially between temperature/temperature² and energy consumption.
 4. Created additional features through feature engineering:
